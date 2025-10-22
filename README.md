@@ -1,7 +1,7 @@
-# Tkinter Venue Booking System
+# VenueMaster Booking System
 
-A **Python desktop application** for booking and managing venues using **Tkinter** for the GUI and **SQLite** for the database.
-
+A **
+VenueMaster – A Python Tkinter desktop application with SQLite database for end-to-end venue management, including listings, reservations, customer management, and admin dashboards.
 ---
 
 ## Features
